@@ -1,0 +1,5 @@
+USA|Democratic Republic|328.2|English
+Canada|Parliamentary Democracy|37.59|English
+Japan|Constitutional Monarchy|126.3|Japanese
+Russia|Federal Democracy|144.4|Russian
+Fake|sdf|34|Edaf
